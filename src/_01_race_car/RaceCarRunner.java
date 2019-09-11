@@ -38,7 +38,7 @@ car.overtake();
 car.overtake();
 car.overtake();
 car.overtake();
-car.crash();
+
 	}
 }
 }
