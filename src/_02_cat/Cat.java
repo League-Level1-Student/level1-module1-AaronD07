@@ -40,7 +40,7 @@ public class Cat {
 	void kill() {
 		lives--;
 		if (lives > 0)
-			System.out.println("nice try, but I still have " + lives + " lives left");
+			System.out.println("Nice try, but I still have " + lives + " lives left");
 		else if (lives < 0)
 			System.out.println("that's overkill yo!");
 		else
